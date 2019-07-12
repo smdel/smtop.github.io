@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: 单面
+description: 描述
 ---
 
-## Welcome to another page
+## 这是一个单面
 
 _yay_
 
